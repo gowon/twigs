@@ -1,0 +1,32 @@
+{
+    "theme": "colorful",
+    "url": "https://gowon.github.io/link-list/miso",
+    "title": "Little Miso's Link List",
+    "name": "Little Miso",
+    "content": "Thank you for supporting me as I grow!",
+    "minify": true,
+    "avatar": {
+        "path": "./little-miso-favicon.png"
+    },
+    "links": [
+        {
+            "url": "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=366-N0Y",
+            "title": "🎓 Donate to My Education Fund"
+        },
+        {
+            "url": "https://www.amazon.com/hz/wishlist/ls/397FYYEX5NB9D?ref_=wl_share",
+            "title": "🛒 Purchase gift from my wish list"
+        }
+    ],
+    "footerLinks": [
+        {
+            "title": "529 Tax Information",
+            "content": "Most U.S. states offer full or partial income tax deductions or credits for contributions to a 529 plan. As of 2026, Georgia taxpayers can receive an state income tax deduction for contributions to a Path2College 529 Plan account up to $4,000 per year. Taxpayers in AZ, AR, KS, ME, MN, MO, MT, OH, PA can also receive a state income tax deduction."
+        }
+    ],
+    "share": {
+        "title": "Little Miso\\'s Link List",
+        "url": "https://gowon.github.io/link-list/miso",
+        "text": "Share"
+    }
+}
