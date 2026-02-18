@@ -6,7 +6,7 @@
     "content": "Thank you for supporting me as I grow!",
     "minify": true,
     "avatar": {
-        "path": "./little-miso-favicon.png"
+        "path": "./miso-favicon.png"
     },
     "links": [
         {
@@ -15,7 +15,7 @@
         },
         {
             "url": "https://www.amazon.com/hz/wishlist/ls/397FYYEX5NB9D?ref_=wl_share",
-            "title": "🛒 Purchase gift from my wish list"
+            "title": "🛒 Purchase Gift from My Wish List"
         }
     ],
     "footerLinks": [
